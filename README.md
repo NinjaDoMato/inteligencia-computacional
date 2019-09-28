@@ -4,4 +4,4 @@ Curso: Ciência da Computação - 8° período
 
 Disciplina: Inteligencia Computacional
 
-Alumo: Daniel Deda
+Aluno: Daniel Deda
